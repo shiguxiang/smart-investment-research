@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# Environment
+.env
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Test / Cache
+.pytest_cache/
+*.pyc
+
+# Data (keep directory structure, ignore actual files)
+data/uploads/*
+data/pdfs/*
+data/ppts/*
+!data/pdfs/.gitkeep
+!data/ppts/.gitkeep
+!data/uploads/.gitkeep
+
+# Memory / Plans
+.claude/

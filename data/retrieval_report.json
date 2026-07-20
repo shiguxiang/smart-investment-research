@@ -1,0 +1,438 @@
+{
+  "timestamp": "2026-07-21 01:14:44",
+  "total_queries": 60,
+  "index_size": 15632,
+  "reranker_model": "BAAI/bge-reranker-v2-m3",
+  "bm25_only": {
+    "recall@1": 0.7,
+    "recall@3": 0.8833,
+    "recall@5": 0.9167
+  },
+  "bm25_plus_reranker": {
+    "recall@1": 0.9667,
+    "recall@3": 0.9667,
+    "recall@5": 0.9667
+  },
+  "results": [
+    {
+      "id": "qa_058",
+      "question": "海螺水泥的ROE（净资产收益率）是多少？",
+      "gt_file": "海螺水泥：2025年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_010",
+      "question": "中简科技2025年营业收入是多少？",
+      "gt_file": "中简科技：2025年年度报告(更正后).pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_042",
+      "question": "梦百合2025年营业收入是多少？",
+      "gt_file": "梦百合：2025年年度报告（更正后）.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_001",
+      "question": "地产行业万科A营收增长如何？",
+      "gt_file": "万科A：2025年年度报告.pdf",
+      "bm25_rank": 5,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_071",
+      "question": "医药行业药明康德营收增长如何？",
+      "gt_file": "药明康德：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_066",
+      "question": "美的集团2025年营业收入是多少？",
+      "gt_file": "美的集团：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_015",
+      "question": "五 粮 液2025年净利润是多少？",
+      "gt_file": "五 粮 液：2025年年度报告.pdf",
+      "bm25_rank": null,
+      "rerank_rank": null
+    },
+    {
+      "id": "qa_026",
+      "question": "山西汾酒2025年营业收入是多少？",
+      "gt_file": "山西汾酒：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_040",
+      "question": "格力电器的ROE（净资产收益率）是多少？",
+      "gt_file": "格力电器：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_032",
+      "question": "恒瑞医药2025年营业收入是多少？",
+      "gt_file": "恒瑞医药：恒瑞医药2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_045",
+      "question": "汇川技术2025年营业收入是多少？",
+      "gt_file": "汇川技术：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_047",
+      "question": "汇川技术的ROE（净资产收益率）是多少？",
+      "gt_file": "汇川技术：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_067",
+      "question": "美的集团2025年净利润是多少？",
+      "gt_file": "美的集团：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_019",
+      "question": "保利发展2025年营业收入是多少？",
+      "gt_file": "保利发展：保利发展控股集团股份有限公司2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_059",
+      "question": "其他行业海螺水泥营收增长如何？",
+      "gt_file": "海螺水泥：2025年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_055",
+      "question": "科技行业海康威视营收增长如何？",
+      "gt_file": "海康威视：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_062",
+      "question": "消费行业牧原股份营收增长如何？",
+      "gt_file": "牧原股份：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_080",
+      "question": "长江电力2025年营业收入是多少？",
+      "gt_file": "长江电力：长江电力2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_051",
+      "question": "银行行业泸州老窖营收增长如何？",
+      "gt_file": "泸州老窖：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_056",
+      "question": "海螺水泥2025年营业收入是多少？",
+      "gt_file": "海螺水泥：2025年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_049",
+      "question": "泸州老窖2025年营业收入是多少？",
+      "gt_file": "泸州老窖：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_084",
+      "question": "新能源行业隆基绿能营收增长如何？",
+      "gt_file": "隆基绿能：2025年年度报告.pdf",
+      "bm25_rank": 3,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_074",
+      "question": "迈瑞医疗2025年营业收入是多少？",
+      "gt_file": "迈瑞医疗：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_063",
+      "question": "绿的谐波2025年营业收入是多少？",
+      "gt_file": "绿的谐波：2025年年度报告(更正后).pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_033",
+      "question": "恒瑞医药2025年净利润是多少？",
+      "gt_file": "恒瑞医药：恒瑞医药2025年年度报告.pdf",
+      "bm25_rank": 2,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_008",
+      "question": "银行行业中国平安营收增长如何？",
+      "gt_file": "中国平安：中国平安2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_037",
+      "question": "银行行业招商银行营收增长如何？",
+      "gt_file": "招商银行：招商银行股份有限公司2025年度报告.pdf",
+      "bm25_rank": 2,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_070",
+      "question": "药明康德2025年营业收入是多少？",
+      "gt_file": "药明康德：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_030",
+      "question": "工商银行的ROE（净资产收益率）是多少？",
+      "gt_file": "工商银行：工商银行2025年度报告.pdf",
+      "bm25_rank": 12,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_043",
+      "question": "其他行业梦百合营收增长如何？",
+      "gt_file": "梦百合：2025年年度报告（更正后）.pdf",
+      "bm25_rank": 2,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_061",
+      "question": "牧原股份2025年净利润是多少？",
+      "gt_file": "牧原股份：2025年年度报告.pdf",
+      "bm25_rank": 2,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_041",
+      "question": "家电行业格力电器营收增长如何？",
+      "gt_file": "格力电器：2025年年度报告.pdf",
+      "bm25_rank": 2,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_039",
+      "question": "格力电器2025年净利润是多少？",
+      "gt_file": "格力电器：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_087",
+      "question": "顺丰控股的ROE（净资产收益率）是多少？",
+      "gt_file": "顺丰控股：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_046",
+      "question": "汇川技术2025年净利润是多少？",
+      "gt_file": "汇川技术：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_076",
+      "question": "医药行业迈瑞医疗营收增长如何？",
+      "gt_file": "迈瑞医疗：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_012",
+      "question": "中简科技的ROE（净资产收益率）是多少？",
+      "gt_file": "中简科技：2025年年度报告(更正后).pdf",
+      "bm25_rank": 8,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_036",
+      "question": "招商银行2025年净利润是多少？",
+      "gt_file": "招商银行：招商银行股份有限公司2025年度报告.pdf",
+      "bm25_rank": 2,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_023",
+      "question": "其他行业天键股份营收增长如何？",
+      "gt_file": "天键股份：2025年年度报告（更正后）.pdf",
+      "bm25_rank": 6,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_018",
+      "question": "京东方Ａ的ROE（净资产收益率）是多少？",
+      "gt_file": "京东方Ａ：2025年年度报告.pdf",
+      "bm25_rank": 4,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_065",
+      "question": "制造行业绿的谐波营收增长如何？",
+      "gt_file": "绿的谐波：2025年年度报告(更正后).pdf",
+      "bm25_rank": 3,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_068",
+      "question": "美的集团的ROE（净资产收益率）是多少？",
+      "gt_file": "美的集团：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_052",
+      "question": "海康威视2025年营业收入是多少？",
+      "gt_file": "海康威视：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_007",
+      "question": "中国平安2025年净利润是多少？",
+      "gt_file": "中国平安：中国平安2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_034",
+      "question": "保险行业恒瑞医药营收增长如何？",
+      "gt_file": "恒瑞医药：恒瑞医药2025年年度报告.pdf",
+      "bm25_rank": 2,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_072",
+      "question": "贵州茅台2025年营业收入是多少？",
+      "gt_file": "贵州茅台：贵州茅台2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_002",
+      "question": "中国中免2025年营业收入是多少？",
+      "gt_file": "中国中免：中国旅游集团中免股份有限公司2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_016",
+      "question": "五 粮 液的ROE（净资产收益率）是多少？",
+      "gt_file": "五 粮 液：2025年年度报告.pdf",
+      "bm25_rank": 16,
+      "rerank_rank": 7
+    },
+    {
+      "id": "qa_038",
+      "question": "格力电器2025年营业收入是多少？",
+      "gt_file": "格力电器：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_050",
+      "question": "泸州老窖2025年净利润是多少？",
+      "gt_file": "泸州老窖：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_022",
+      "question": "天键股份2025年营业收入是多少？",
+      "gt_file": "天键股份：2025年年度报告（更正后）.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_077",
+      "question": "金山办公2025年营业收入是多少？",
+      "gt_file": "金山办公：金山办公2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_024",
+      "question": "宁德时代2025年营业收入是多少？",
+      "gt_file": "宁德时代：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_005",
+      "question": "中国人寿2025年净利润是多少？",
+      "gt_file": "中国人寿：中国人寿2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_006",
+      "question": "中国平安2025年营业收入是多少？",
+      "gt_file": "中国平安：中国平安2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_060",
+      "question": "牧原股份2025年营业收入是多少？",
+      "gt_file": "牧原股份：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_048",
+      "question": "科技行业汇川技术营收增长如何？",
+      "gt_file": "汇川技术：2025年年度报告.pdf",
+      "bm25_rank": 3,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_088",
+      "question": "物流行业顺丰控股营收增长如何？",
+      "gt_file": "顺丰控股：2025年年度报告.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_009",
+      "question": "中国石油2025年净利润是多少？",
+      "gt_file": "中国石油：中国石油天然气股份有限公司2025年年报.pdf",
+      "bm25_rank": 1,
+      "rerank_rank": 1
+    },
+    {
+      "id": "qa_082",
+      "question": "电力行业长江电力营收增长如何？",
+      "gt_file": "长江电力：长江电力2025年年度报告.pdf",
+      "bm25_rank": 3,
+      "rerank_rank": 1
+    }
+  ]
+}

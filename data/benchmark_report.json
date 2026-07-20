@@ -1,0 +1,548 @@
+{
+  "timestamp": "2026-07-21 00:29:16",
+  "total": 35,
+  "success": 35,
+  "fail": 0,
+  "success_rate": "100%",
+  "ttf_avg_s": 2.34,
+  "ttf_p50_s": 0.96,
+  "ttf_p95_s": 12.28,
+  "total_chars": 8797406,
+  "total_tables": 3831,
+  "total_parse_time_s": 82.0,
+  "metrics_coverage": {
+    "营业收入": 25,
+    "毛利率": 5,
+    "净利润": 24,
+    "总资产": 7,
+    "ROE": 12,
+    "每股收益": 2
+  },
+  "results": [
+    {
+      "file": "万科A：2025年年度报告.pdf",
+      "size_mb": 6.4,
+      "success": true,
+      "pages": 298,
+      "parse_time_s": 2.218,
+      "chars": 395566,
+      "tables_found": 128,
+      "sections": 20750,
+      "metrics": {
+        "营业收入": "营业收入2,334.3 亿元",
+        "毛利率": "毛利率为8.6%"
+      },
+      "error": null
+    },
+    {
+      "file": "中国中免：中国旅游集团中免股份有限公司2025年年度报告.pdf",
+      "size_mb": 11.4,
+      "success": true,
+      "pages": 196,
+      "parse_time_s": 0.888,
+      "chars": 177204,
+      "tables_found": 42,
+      "sections": 10219,
+      "metrics": {
+        "营业收入": "营业收入536.94 亿元",
+        "净利润": "净利润35.86 亿元"
+      },
+      "error": null
+    },
+    {
+      "file": "中国人寿：中国人寿2025年年度报告.pdf",
+      "size_mb": 4.8,
+      "success": true,
+      "pages": 228,
+      "parse_time_s": 1.501,
+      "chars": 222282,
+      "tables_found": 42,
+      "sections": 10087,
+      "metrics": {
+        "净利润": "净利润1,540.78亿元",
+        "总资产": "总资产\n7,591,004\n百万元"
+      },
+      "error": null
+    },
+    {
+      "file": "中国平安：中国平安2025年年度报告.pdf",
+      "size_mb": 9.1,
+      "success": true,
+      "pages": 370,
+      "parse_time_s": 12.28,
+      "chars": 332446,
+      "tables_found": 919,
+      "sections": 17831,
+      "metrics": {
+        "营业收入": "营业收入10,505.06 亿元",
+        "净利润": "净利润1,437.73 亿元",
+        "ROE": "ROE12.7%"
+      },
+      "error": null
+    },
+    {
+      "file": "中国石化：中国石化2025年度报告.pdf",
+      "size_mb": 12.5,
+      "success": true,
+      "pages": 239,
+      "parse_time_s": 1.71,
+      "chars": 308564,
+      "tables_found": 380,
+      "sections": 14911,
+      "metrics": {},
+      "error": null
+    },
+    {
+      "file": "中国石油：中国石油天然气股份有限公司2025年年报.pdf",
+      "size_mb": 9.0,
+      "success": true,
+      "pages": 273,
+      "parse_time_s": 2.079,
+      "chars": 274657,
+      "tables_found": 247,
+      "sections": 10862,
+      "metrics": {
+        "净利润": "净利润为1,720.21 亿元"
+      },
+      "error": null
+    },
+    {
+      "file": "中简科技：2025年年度报告(更正后).pdf",
+      "size_mb": 1.0,
+      "success": true,
+      "pages": 156,
+      "parse_time_s": 0.513,
+      "chars": 154723,
+      "tables_found": 17,
+      "sections": 9184,
+      "metrics": {
+        "营业收入": "营业收入8.46 亿元",
+        "净利润": "净利润3.15 亿元",
+        "ROE": "加权平均净资产收益率\n7.13%",
+        "总资产": "总资产50.54 亿元"
+      },
+      "error": null
+    },
+    {
+      "file": "中芯国际：中芯国际2025年年度报告.pdf",
+      "size_mb": 1.6,
+      "success": true,
+      "pages": 232,
+      "parse_time_s": 0.798,
+      "chars": 213464,
+      "tables_found": 7,
+      "sections": 11228,
+      "metrics": {},
+      "error": null
+    },
+    {
+      "file": "五 粮 液：2025年年度报告.pdf",
+      "size_mb": 2.9,
+      "success": true,
+      "pages": 141,
+      "parse_time_s": 0.958,
+      "chars": 168410,
+      "tables_found": 14,
+      "sections": 9129,
+      "metrics": {
+        "营业收入": "营业总收入405.29 亿元",
+        "净利润": "净利润89.54 亿元",
+        "ROE": "加权平均净资产收益率 \n6.89%"
+      },
+      "error": null
+    },
+    {
+      "file": "京东方Ａ：2025年年度报告.pdf",
+      "size_mb": 1.8,
+      "success": true,
+      "pages": 227,
+      "parse_time_s": 0.748,
+      "chars": 213555,
+      "tables_found": 98,
+      "sections": 11832,
+      "metrics": {
+        "营业收入": "实现营收约1,664.17 亿元",
+        "ROE": "加权平均净资产收益率\n4.39%"
+      },
+      "error": null
+    },
+    {
+      "file": "保利发展：保利发展控股集团股份有限公司2025年年度报告.pdf",
+      "size_mb": 6.5,
+      "success": true,
+      "pages": 349,
+      "parse_time_s": 2.958,
+      "chars": 505433,
+      "tables_found": 24,
+      "sections": 41220,
+      "metrics": {
+        "营业收入": "营业收入3081 亿元",
+        "净利润": "净利润15.5\n亿元"
+      },
+      "error": null
+    },
+    {
+      "file": "天键股份：2025年年度报告（更正后）.pdf",
+      "size_mb": 1.5,
+      "success": true,
+      "pages": 196,
+      "parse_time_s": 0.606,
+      "chars": 188685,
+      "tables_found": 28,
+      "sections": 12251,
+      "metrics": {
+        "营业收入": "营业收入为186,397.42 万元",
+        "净利润": "净利润为-3,271.77 万元"
+      },
+      "error": null
+    },
+    {
+      "file": "宁德时代：2025年年度报告.pdf",
+      "size_mb": 1.9,
+      "success": true,
+      "pages": 232,
+      "parse_time_s": 0.98,
+      "chars": 239304,
+      "tables_found": 173,
+      "sections": 14440,
+      "metrics": {},
+      "error": null
+    },
+    {
+      "file": "山西汾酒：2025年年度报告.pdf",
+      "size_mb": 1.1,
+      "success": true,
+      "pages": 169,
+      "parse_time_s": 0.556,
+      "chars": 150181,
+      "tables_found": 29,
+      "sections": 9124,
+      "metrics": {
+        "营业收入": "营业收入为38,718,257,657.74元"
+      },
+      "error": null
+    },
+    {
+      "file": "工商银行：工商银行2025年度报告.pdf",
+      "size_mb": 8.9,
+      "success": true,
+      "pages": 408,
+      "parse_time_s": 5.782,
+      "chars": 404037,
+      "tables_found": 118,
+      "sections": 17736,
+      "metrics": {
+        "营业收入": "营业收入8,382.70 亿元",
+        "净利润": "净利润\n3,707.66 亿元",
+        "ROE": "加权平均净资产收益率9.45%",
+        "总资产": "总资产53.48 万亿元"
+      },
+      "error": null
+    },
+    {
+      "file": "得利斯：2025年年度报告摘要（更正后）.pdf",
+      "size_mb": 0.2,
+      "success": true,
+      "pages": 8,
+      "parse_time_s": 0.037,
+      "chars": 7735,
+      "tables_found": 0,
+      "sections": 345,
+      "metrics": {},
+      "error": null
+    },
+    {
+      "file": "恒瑞医药：恒瑞医药2025年年度报告.pdf",
+      "size_mb": 3.3,
+      "success": true,
+      "pages": 236,
+      "parse_time_s": 1.019,
+      "chars": 231939,
+      "tables_found": 58,
+      "sections": 13471,
+      "metrics": {
+        "营业收入": "营业收入316.29 亿元",
+        "净利润": "净利润\n77.11 亿元"
+      },
+      "error": null
+    },
+    {
+      "file": "招商银行：招商银行股份有限公司2025年度报告.pdf",
+      "size_mb": 30.6,
+      "success": true,
+      "pages": 350,
+      "parse_time_s": 10.797,
+      "chars": 400582,
+      "tables_found": 78,
+      "sections": 22876,
+      "metrics": {
+        "营业收入": "营业收入3,375.32亿元",
+        "净利润": "净利润1,501.81亿元",
+        "总资产": "总资产3,252.98亿元"
+      },
+      "error": null
+    },
+    {
+      "file": "格力电器：2025年年度报告.pdf",
+      "size_mb": 2.2,
+      "success": true,
+      "pages": 219,
+      "parse_time_s": 0.79,
+      "chars": 232422,
+      "tables_found": 9,
+      "sections": 13192,
+      "metrics": {
+        "营业收入": "营业收入139.20 万亿元",
+        "净利润": "净利润290.03 亿元",
+        "ROE": "加权平均净资产收益率\n20.30%"
+      },
+      "error": null
+    },
+    {
+      "file": "梦百合：2025年年度报告（更正后）.pdf",
+      "size_mb": 2.5,
+      "success": true,
+      "pages": 237,
+      "parse_time_s": 0.825,
+      "chars": 222011,
+      "tables_found": 19,
+      "sections": 13803,
+      "metrics": {
+        "营业收入": "营业收入89.12 亿元",
+        "净利润": "净利润-0.10 亿元",
+        "总资产": "资产总额为9,622,769,572.52 元"
+      },
+      "error": null
+    },
+    {
+      "file": "比亚迪：2025年年度报告.pdf",
+      "size_mb": 7.2,
+      "success": true,
+      "pages": 268,
+      "parse_time_s": 2.104,
+      "chars": 278333,
+      "tables_found": 100,
+      "sections": 13557,
+      "metrics": {
+        "ROE": "加权平均净资产收益率 \n15.31%"
+      },
+      "error": null
+    },
+    {
+      "file": "汇川技术：2025年年度报告.pdf",
+      "size_mb": 7.0,
+      "success": true,
+      "pages": 233,
+      "parse_time_s": 2.198,
+      "chars": 325432,
+      "tables_found": 204,
+      "sections": 15793,
+      "metrics": {
+        "营业收入": "营业收入451.05 亿元",
+        "净利润": "净利润50.5 亿元",
+        "ROE": "加权平均净资产收益率 \n16.34%",
+        "每股收益": "每股收益为1.87 元"
+      },
+      "error": null
+    },
+    {
+      "file": "泸州老窖：2025年年度报告.pdf",
+      "size_mb": 2.3,
+      "success": true,
+      "pages": 183,
+      "parse_time_s": 0.721,
+      "chars": 187291,
+      "tables_found": 0,
+      "sections": 13724,
+      "metrics": {
+        "营业收入": "营业收入257.31 亿元",
+        "净利润": "净利润108.31 亿元"
+      },
+      "error": null
+    },
+    {
+      "file": "海康威视：2025年年度报告.pdf",
+      "size_mb": 16.5,
+      "success": true,
+      "pages": 263,
+      "parse_time_s": 3.393,
+      "chars": 281924,
+      "tables_found": 198,
+      "sections": 10367,
+      "metrics": {
+        "营业收入": "营业总收入925.08 亿元",
+        "净利润": "净利润 11,246,784,128.48 元",
+        "ROE": "加权平均净资产收益率 \n17.30%"
+      },
+      "error": null
+    },
+    {
+      "file": "海螺水泥：2025年度报告.pdf",
+      "size_mb": 2.7,
+      "success": true,
+      "pages": 268,
+      "parse_time_s": 1.366,
+      "chars": 273285,
+      "tables_found": 126,
+      "sections": 14498,
+      "metrics": {
+        "营业收入": "营业收入为825.32 亿元",
+        "净利润": "净利润为81.13 亿元",
+        "ROE": "加权平均净资产收益率 \n4.27%",
+        "总资产": "总资产为2,560.01 亿元",
+        "毛利率": "毛利率为27.76%"
+      },
+      "error": null
+    },
+    {
+      "file": "牧原股份：2025年年度报告.pdf",
+      "size_mb": 4.8,
+      "success": true,
+      "pages": 253,
+      "parse_time_s": 1.756,
+      "chars": 250099,
+      "tables_found": 92,
+      "sections": 16648,
+      "metrics": {
+        "营业收入": "营业收入1,441.45 亿元",
+        "净利润": "净利润158.12 亿元"
+      },
+      "error": null
+    },
+    {
+      "file": "绿的谐波：2025年年度报告(更正后).pdf",
+      "size_mb": 1.7,
+      "success": true,
+      "pages": 232,
+      "parse_time_s": 0.696,
+      "chars": 176606,
+      "tables_found": 11,
+      "sections": 12182,
+      "metrics": {
+        "营业收入": "营业收入570,714,025.26 元",
+        "净利润": "净利润124,366,913.57 元"
+      },
+      "error": null
+    },
+    {
+      "file": "美的集团：2025年年度报告.pdf",
+      "size_mb": 5.7,
+      "success": true,
+      "pages": 276,
+      "parse_time_s": 1.654,
+      "chars": 280950,
+      "tables_found": 127,
+      "sections": 11736,
+      "metrics": {
+        "营业收入": "营业总收入4,585 亿元",
+        "净利润": "净利润439.5 亿元",
+        "ROE": "加权平均净资产收益率 \n19.70%",
+        "毛利率": "毛利率为19.61%"
+      },
+      "error": null
+    },
+    {
+      "file": "药明康德：2025年年度报告.pdf",
+      "size_mb": 1.5,
+      "success": true,
+      "pages": 249,
+      "parse_time_s": 0.752,
+      "chars": 236456,
+      "tables_found": 121,
+      "sections": 12036,
+      "metrics": {
+        "毛利率": "毛利率47.64%"
+      },
+      "error": null
+    },
+    {
+      "file": "贵州茅台：贵州茅台2025年年度报告.pdf",
+      "size_mb": 1.0,
+      "success": true,
+      "pages": 143,
+      "parse_time_s": 0.412,
+      "chars": 154743,
+      "tables_found": 0,
+      "sections": 10622,
+      "metrics": {},
+      "error": null
+    },
+    {
+      "file": "迈瑞医疗：2025年年度报告.pdf",
+      "size_mb": 3.3,
+      "success": true,
+      "pages": 376,
+      "parse_time_s": 0.896,
+      "chars": 328941,
+      "tables_found": 64,
+      "sections": 14524,
+      "metrics": {
+        "营业收入": "营业收入3,328,215.94 万元",
+        "净利润": "净利润845,147.14\n万元"
+      },
+      "error": null
+    },
+    {
+      "file": "金山办公：金山办公2025年年度报告.pdf",
+      "size_mb": 1.8,
+      "success": true,
+      "pages": 262,
+      "parse_time_s": 0.642,
+      "chars": 243626,
+      "tables_found": 77,
+      "sections": 13949,
+      "metrics": {
+        "营业收入": "营业收入592,874.47 万元",
+        "净利润": "净利润183,646.87 万元",
+        "总资产": "资产总额为159.13 亿元"
+      },
+      "error": null
+    },
+    {
+      "file": "长江电力：长江电力2025年年度报告.pdf",
+      "size_mb": 1.5,
+      "success": true,
+      "pages": 259,
+      "parse_time_s": 0.656,
+      "chars": 246621,
+      "tables_found": 7,
+      "sections": 15582,
+      "metrics": {
+        "净利润": "净利润345.03\n亿元",
+        "每股收益": "每股收益1.4101 元"
+      },
+      "error": null
+    },
+    {
+      "file": "隆基绿能：2025年年度报告.pdf",
+      "size_mb": 3.2,
+      "success": true,
+      "pages": 314,
+      "parse_time_s": 0.671,
+      "chars": 248157,
+      "tables_found": 51,
+      "sections": 15563,
+      "metrics": {
+        "营业收入": "营业收入703.47\n亿元"
+      },
+      "error": null
+    },
+    {
+      "file": "顺丰控股：2025年年度报告.pdf",
+      "size_mb": 22.6,
+      "success": true,
+      "pages": 283,
+      "parse_time_s": 16.059,
+      "chars": 241742,
+      "tables_found": 223,
+      "sections": 11552,
+      "metrics": {
+        "营业收入": "营业收入127.2亿元",
+        "净利润": "净利润565,102千元",
+        "ROE": "加权平均净资产收益率\n11.51%",
+        "毛利率": "毛利率\n13.32%"
+      },
+      "error": null
+    }
+  ]
+}
